@@ -1,3 +1,2 @@
-/.git/
-/.siyuan/
-/.gitnore.txt/
+*.*
+!*.md
